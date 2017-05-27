@@ -1,18 +1,9 @@
 # keyword-analysis
-키워드 분석
+Keyword analysis from Naver
 
-## 주제 선정 배경
-매일 생성되는 네이버 컨텐츠의 제목 또는 내용의 키워드를 분석하여 의미 있는 데이터를 생성합니다.
+If you need the data of the Facebook bamboo forest document used in this project, please e-mail us.
 
-## 요구사항
-- 단순 키워드들의 count 정보가 아닌 최소 2~3개 이상의 키워드 조합이 필요합니다.
-(예를들어 “아이유 팔레트”, “k팝스타 보이프렌드” 같은 의미있는 키워드 추출)
-- 추출된 키워드 데이터의 저장 구조에 대한 검토가 필요합니다.
-(서비스별로 혹은 카테고리별로 많이 언급된 키워드 등 의미있는 데이터를 보기 위한 구조)
-- 대량의 데이터 처리에 대한 고려가 필요합니다.
-- 키워드 추출을 위한 오픈소스 사용이 가능합니다.
-
-`문의사항은 이슈 항목에 등록해주시면 답변드리겠습니다.`
+`takis0112@gmail.com`
 
 # Results
 
