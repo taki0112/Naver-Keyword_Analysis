@@ -1,0 +1,30 @@
+#place_1{
+    position:absolute;
+    left:100px;
+    top:100px;
+}
+
+#place_1{
+    position:absolute;
+    left:100px;
+    top:100px;
+}
+
+#place_2{
+    position:absolute;
+    left:100px;
+    top:500px;
+}
+
+#word_cloud{
+    position:absolute;
+    left:300px;
+    top:100px;
+    
+}
+#vector_cloud{
+    position:absolute;
+    left:300px;
+    top:500px;
+    
+}
