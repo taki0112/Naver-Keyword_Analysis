@@ -3,7 +3,7 @@ Keyword analysis from Naver
 
 If you need the data of the Facebook bamboo forest document used in this project, please e-mail us.
 
-`takis0112@gmail.com`
+***takis0112@gmail.com***
 
 # Results
 
