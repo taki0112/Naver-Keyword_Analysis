@@ -30,7 +30,7 @@ If you need the data of the Facebook bamboo forest document used in this project
 ![Screenshot](./screenshot.PNG)
 
 ## Optional
-* Data Visualization in Web (Word cluod)
+* Data Visualization in Web (Word cloud)
 ```bash
 Keyword = DF * (1/log_3(Rank) * (1/5)
 Associated word = Cosine similarity * 1000 * (1/log_3(Rank) 
